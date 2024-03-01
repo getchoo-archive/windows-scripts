@@ -97,11 +97,11 @@ $wingetPackages = @(
 	# dev tools
 	"Git.Git"
 	"GitHub.cli"
-	"GnuPG.Gpg4win"
+	"GnuPG.GnuPG"
 	"Casey.Just"
 	"EclipseAdoptium.Temurin.17.JDK"
 	"EclipseAdoptium.Temurin.8.JRE"
-	"Microsoft.VisualStudio.2022.BuildTools"
+	"Microsoft.VisualStudio.2022.Community"
 	"Microsoft.VisualStudioCode"
 	"Python.Python.3.12"
 	"Rustlang.Rustup"
